@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CustomGameObjectCreator
 {
-    [MenuItem("GameObject/Ill_tools/Add AAOBlocker At Root", false, 10)]
+    [MenuItem("GameObject/illusive_tools/Add AAOBlocker At Root", false, 10)]
     static void AddMyObjectAtRoot()
     {
         // シーン内に "AAOBlocker" という名前のオブジェクトが存在するかチェック
