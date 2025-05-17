@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace jp.illusive_isc.blocker
+namespace jp.illusive_isc.toggle
 {
-    public class IllAAOBlocker : MonoBehaviour { }
+    public class IllAAOToggle : MonoBehaviour { }
 }
