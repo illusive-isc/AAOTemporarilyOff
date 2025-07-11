@@ -1,5 +1,5 @@
 {
-    "name": "jp.illusive_isc.IllAAOBlockerEditor",
+    "name": "jp.illusive_isc.AAOTemporarilyOffEditor",
     "rootNamespace": "jp.illusive_isc.blocker",
     "references": [
         "GUID:62ced99b048af7f4d8dfe4bed8373d76",

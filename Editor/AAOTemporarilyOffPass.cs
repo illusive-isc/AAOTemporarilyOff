@@ -1,14 +1,15 @@
 using Anatawa12.AvatarOptimizer;
+using jp.illusive_isc.temporarilyOff;
 using nadena.dev.ndmf;
 using UnityEngine;
 
 namespace jp.illusive_isc.blocker
 {
-    public class IllAAOBlockerPass : Pass<IllAAOBlockerPass>
+    public class AAOTemporarilyOffPass : Pass<AAOTemporarilyOffPass>
     {
         protected override void Execute(BuildContext context)
         {
-            foreach (var Blocker in Object.FindObjectsOfType<IllAAOBlocker>())
+            foreach (var Blocker in Object.FindObjectsOfType<AAOTemporarilyOff>())
             {
                 if (Blocker.gameObject.activeInHierarchy)
                 {

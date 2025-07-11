@@ -1,7 +1,7 @@
 {
-  "name": "jp.illusive-isc.aao-blocker",
+  "name": "jp.illusive-isc.aao-temporarily-off",
   "version": "1.0.0",
-  "displayName": "AAO Blocker",
+  "displayName": "AAO TemporarilyOff",
   "description": "aao blocking",
   "unity": "2022.3",
   "author": {

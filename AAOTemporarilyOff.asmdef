@@ -1,6 +1,6 @@
 {
-    "name": "jp.illusive_isc.IllAAOBlocker",
-    "rootNamespace": "jp.illusive_isc.blocker",
+    "name": "jp.illusive_isc.AAOTemporarilyOff",
+    "rootNamespace": "jp.illusive_isc.temporarilyOff",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
@@ -9,5 +9,6 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": []
+    "versionDefines": [],
+    "noEngineReferences": false
 }
