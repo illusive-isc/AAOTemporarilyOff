@@ -1,6 +1,6 @@
 {
   "name": "jp.illusive-isc.aao-temporarily-off",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "displayName": "AAO TemporarilyOff",
   "description": "Create an object to temporarily disable AAO",
   "unity": "2022.3",
