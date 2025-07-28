@@ -1,6 +1,6 @@
 {
-  "name": "jp.illusive-isc.aao-blocker",
-  "version": "1.0.5",
+  "name": "jp.illusive-isc.aao-temporarily-off",
+  "version": "1.0.4",
   "displayName": "AAO TemporarilyOff",
   "description": "Create an object to temporarily disable AAO",
   "unity": "2022.3",
@@ -8,5 +8,8 @@
     "name": "illusive_isc",
     "url": "https://illusive_isc.jp"
   },
+  "legacyPackages": [
+    "jp.illusive-isc.aao-blocker"
+  ],
   "url": "https://github.com/illusive-isc/AAOTemporarilyOff"
 }
